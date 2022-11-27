@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab_Intents</string>
+    <string name="btn_explicit">ExplicitActivity</string>
+    <string name="btn_implicit">Implicit Activity</string>
+    <string name="btn_send">Send</string>
+    <string name="btn_selectPhoto">Select Photo</string>
+</resources>
